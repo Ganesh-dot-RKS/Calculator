@@ -1,0 +1,1 @@
+This is the first time when i implement my html,css and js knowledge to a simple working calculator module. Here using HTML i placed elements of the calculator into user interface screen then using css the styling to each element is given and through js validation is given to the all key present in the calculator.  
